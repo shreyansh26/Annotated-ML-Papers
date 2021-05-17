@@ -1,7 +1,7 @@
 # Annotated-ML-Papers
 Annotations of the interesting ML papers I read. I write a paper summary about the blogs as well.
 
-**Join the mailing list:**  [![](https://img.shields.io/badge/Mailing%20List-Mailchimp-blue)](http://eepurl.com/gOuacr)
+**Join the mailing list:**  [![](https://img.shields.io/badge/Mailing%20List-Mailchimp-blue)](http://eepurl.com/gOuacr)  
 <a href="https://www.buymeacoffee.com/shreyanshsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### XLNet: Generalized Autoregressive Pretraining for Language Understanding \[[blog](https://shreyansh26.github.io/post/2021-05-16_generalized_autoregressive_pretraining_xlnet/)\]\[[annotated paper](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/XLNet.pdf)\]
