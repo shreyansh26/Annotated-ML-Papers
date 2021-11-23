@@ -6,6 +6,7 @@ Annotations of the interesting ML papers I read. I write a paper summary about t
 
 <a href="https://www.buymeacoffee.com/shreyanshsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism \[[annotated paper](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/MegatronLM.pdf)\]  
 ### Language Models are Unsupervised Multitask Learners (GPT-2) \[[blog](https://shreyansh26.github.io/post/2021-05-23_language_models_unsupervised_multitask_learners_gpt2/)\]\[[annotated paper](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/GPT2.pdf)\]  
 ### XLNet: Generalized Autoregressive Pretraining for Language Understanding \[[blog](https://shreyansh26.github.io/post/2021-05-16_generalized_autoregressive_pretraining_xlnet/)\]\[[annotated paper](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/XLNet.pdf)\]
 ### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[blog](https://shreyansh26.github.io/post/2021-05-09_pretraining_deep_bidirectional_transformers_bert/)\]\[[annotated paper](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/BERT.pdf)\]
