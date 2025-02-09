@@ -1,5 +1,5 @@
 # Annotated-ML-Papers
-Annotations of the interesting ML/DL papers I read. I sometime write a paper summary about them on my [blog](https://shreyansh26.github.io/post/) as well.
+Annotations of the interesting ML/DL papers I read. I sometimes write a paper summary about them on my [blog](https://shreyansh26.github.io/post/) as well.
 
 **Join the mailing list:**  [![](https://img.shields.io/badge/Mailing%20List-Mailchimp-blue)](http://eepurl.com/gOuacr)  
 
